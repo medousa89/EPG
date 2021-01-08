@@ -54,8 +54,8 @@
 <channel id="EuroSport1.gr"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
 <channel id="EuroSport2.gr"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <channel id="ert.ertworld.gr"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
-<!-- 3E -->
-<!-- <channel id="EPT-HD.gr">1:0:1:28:2:212C:1E0000:0:0:0:</channel> --> <!-- EPT-HD --> 
+<!-- 9E -->
+<channel id="ant1eu.ant1europe.eu">1:0:1:42D:2:AA:5A0000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
 <!--1.9E-->
 <channel id="RIKsat.cy"> 1:0:1:20B:17:3:130000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ert.ertworld.gr"> 1:0:1:20A:17:3:130000:0:0:0:</channel> <!--ERTWorld--> 
