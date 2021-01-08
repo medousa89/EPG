@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <!-- service references can be found in /etc/enigma2/lamedb -->
 <channels>
-<channel id="Boomerang.gr">1:0:1:1F5:1C00:D2:D70000:0:0:0:</channel> <!-- Boomerang.gr-->
 <!-- sirius powervu -->
 <channel id="cyta.discovery.cy">1:0:1:C8:1:5E:30B022:0:0:0:</channel> <!-- Discovery Central Europe-->
 <channel id="cyta.animalplanet.cy">1:0:1:64:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
@@ -40,9 +39,7 @@
 <channel id="NatGeoWild.gr">1:0:19:306:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD DUT-->
 <channel id="natgeoHD.gr">1:0:19:302:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD-->
 <channel id="NatGeoWild.gr">1:0:19:304:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD-->
-<channel id="FoodNetwork.gr">1:0:19:519D:C8B:3:EB0000:0:0:0::</channel> <!-- FoodNetwork-->
 <channel id="NauticalChannel.gr">1:0:19:1BFD:C88:3:EB0000:0:0:0:</channel> <!-- Nautical Channel-->
-<channel id="OutdoorChannel.gr">1:0:19:51A3:C8B:3:EB0000:0:0:0::</channel> <!-- OutdoorChannel-->
 <channel id="Fineliving.gr">1:0:19:51A5:C8B:3:EB0000:0:0:0:</channel> <!-- Fine living-->
 <!-- 16.0 -->
 <channel id="ViasatHistory.gr">1:0:19:45C:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History -->
