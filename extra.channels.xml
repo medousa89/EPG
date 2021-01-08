@@ -173,9 +173,9 @@
 <channel id="ert.ert2.gr">1:0:1:49:49:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT2 -->
 <!--other-->  
 <channel id="cyta.euronews.cy"> 1:0:1:171:171:0:0:0:0:0:http%3a//example.com </channel> <!-- euronews -->
+<channel id="ONEChannel.gr">1:0:1:1111:1111:0:0:0:0:0:http%3a//example.com</channel> <!-- ONE Channel -->
 <!--Cyprus-->
-<channel id="cyta.sigma.cy">1:0:1:FFFFFFD0:FFFFFFD0:0:0:0:0:0:http%3a//example.com</channel> <!-- sigma tv cy -->
 <channel id="cyta.sigma.cy">1:0:1:30:30:0:0:0:0:0:http%3a//example.com</channel> <!-- sigma tv cy -->
-<channel id="cyta.tvmall.cy">1:0:1:FFF49:FFF49:0:0:0:0:0:http%3a//example.com</channel> <!-- TV MALL -->
+<channel id="cyta.tvmall.cy">1:0:1:152:152:0:0:0:0:0:http%3a//example.com</channel> <!-- TV MALL -->
 <channel id="cyta.smiletv.cy">1:0:1:166:166:0:0:0:0:0:http%3a//example.com</channel> <!--smile tv cy -->
 </channels>
