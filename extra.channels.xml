@@ -3,36 +3,36 @@
 <channels>
 <channel id="Boomerang.gr">1:0:1:1F5:1C00:D2:D70000:0:0:0:</channel> <!-- Boomerang.gr-->
 <!-- sirius powervu -->
-<channel id="discovery.gr">1:0:1:C8:1:5E:30B022:0:0:0:</channel> <!-- Discovery Central Europe-->
-<channel id="animalplanet.gr">1:0:1:64:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
-<channel id="animalplanet.gr">1:0:1:65:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
-<channel id="DiscoveryScience.gr">1:0:1:385:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
-<channel id="DiscoveryScience.gr">1:0:1:384:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
-<channel id="DiscoveryID.gr">1:0:1:190:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
-<channel id="DiscoveryID.gr">1:0:1:191:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
+<channel id="cyta.discovery.cy">1:0:1:C8:1:5E:30B022:0:0:0:</channel> <!-- Discovery Central Europe-->
+<channel id="cyta.animalplanet.cy">1:0:1:64:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
+<channel id="cyta.animalplanet.cy">1:0:1:65:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
+<channel id="cyta.discoveryscience.cy">1:0:1:385:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
+<channel id="cyta.discoveryscience.cy">1:0:1:384:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
+<channel id="cyta.id.cy">1:0:1:190:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
+<channel id="cyta.id.cy">1:0:1:191:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
 <channel id="cyta.tlc.cy">1:0:1:B54:1:5E:30B048:0:0:0:</channel> <!-- TLC Pan Regional-->
-<channel id="InvestigationDiscoveryChannel.no">1:0:1:12C:1:5E:30B022:0:0:0:</channel> <!-- ID  -->
+<channel id="cyta.id.cy">1:0:1:12C:1:5E:30B022:0:0:0:</channel> <!-- ID  -->
 <!-- sirius other -->
 <channel id="ViasatHistory.gr">1:0:1:195A:14:56:300000:0:0:0:</channel> <!-- Viasat History (FSS)-->
 <channel id="ViasatExplore.gr">1:0:1:190A:14:56:300000:0:0:0:</channel> <!-- Viasat Explore (FSS)-->
 <channel id="ViasatNature.gr">1:0:1:7A8:1D:56:300000:0:0:0:</channel> <!-- Viasat Nature (FSS)-->
 <channel id="EuroSport2.gr">1:0:19:125C:1:5E:30B048:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <!-- thor powervu -->
-<channel id="discovery.gr">1:0:1:44C:2:5E:E08B00F:0:0:0:</channel> <!-- Discovery Central Europe HD-->
-<channel id="animalplanet.gr">1:0:1:A2E:2:5E:E08B00F:0:0:0:</channel> <!-- Animal Planet HD-->
+<channel id="cyta.discovery.cy">1:0:1:44C:2:5E:E08B00F:0:0:0:</channel> <!-- Discovery Central Europe HD-->
+<channel id="cyta.animalplanet.cy">1:0:1:A2E:2:5E:E08B00F:0:0:0:</channel> <!-- Animal Planet HD-->
 <channel id="DiscoveryHD.gr">1:0:1:9C4:2:5E:E08B00F:0:0:0:</channel> <!-- Discovery HD Showcase Europe-->
 <channel id="DiscoveryTurboXtra.gr">1:0:1:BB9:2:5E:E08B00F:0:0:0:</channel> <!-- DTX-->
 <channel id="DiscoveryTurboXtra.gr">1:0:1:BB8:2:5E:E08B00F:0:0:0:</channel> <!-- DTX-->
-<channel id="DiscoveryScience.gr">1:0:1:C80:2:5E:E08B00F:0:0:0:</channel> <!-- Science Europe HD-->
-<channel id="DiscoveryID.gr">1:0:1:A8C:2:5E:E08B00F:0:0:0:</channel> <!-- ID Xtra Europe HD-->
+<channel id="cyta.discoveryscience.cy">1:0:1:C80:2:5E:E08B00F:0:0:0:</channel> <!-- Science Europe HD-->
+<channel id="cyta.id.cy">1:0:1:A8C:2:5E:E08B00F:0:0:0:</channel> <!-- ID Xtra Europe HD-->
 <channel id="CrimeInvestigation.gr">1:0:1:1E88:14:46:E080000:0:0:0:</channel> <!-- Crime + Investigation Europe-->
-<channel id="TheHistoryChannel.gr">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
+<channel id="cyta.history.cy">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
 <!-- thor other -->
-<channel id="TheHistoryChannel.gr">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
+<channel id="cyta.history.cy">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
 <channel id="natgeo.gr">1:0:1:78BC:2C5:600:E080000:0:0:0</channel> <!-- National Geographic RO-->
 <channel id="SundanceChannel.gr">1:0:19:791F:2C6:600:E080000:0:0:0:</channel> <!-- sundance tv-->
-<channel id="BBCEarth.gr">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
-<channel id="BBCEarth.gr">1:0:19:1C2A:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
+<channel id="cyta.bbcearth.cy">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
+<channel id="cyta.bbcearth.cy">1:0:19:1C2A:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
 <!-- 23.5 -->
 <channel id="travel.gr">1:0:19:519F:C8B:3:EB0000:0:0:0:</channel> <!-- Travel Channel HD-->
 <channel id="natgeoHD.gr">1:0:19:303:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD CZ-->
@@ -44,14 +44,12 @@
 <channel id="NauticalChannel.gr">1:0:19:1BFD:C88:3:EB0000:0:0:0:</channel> <!-- Nautical Channel-->
 <channel id="OutdoorChannel.gr">1:0:19:51A3:C8B:3:EB0000:0:0:0::</channel> <!-- OutdoorChannel-->
 <channel id="Fineliving.gr">1:0:19:51A5:C8B:3:EB0000:0:0:0:</channel> <!-- Fine living-->
-
 <!-- 16.0 -->
-
 <channel id="ViasatHistory.gr">1:0:19:45C:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History -->
 <channel id="ViasatExplore.gr">1:0:19:45B:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Explore -->
 <channel id="ViasatNature.gr">1:0:19:45A:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Nature -->
 <!-- 13E -->
-
+<channel id="cyta.euronews.cy"> 1:0:1:7E2:22C4:13E:820000:0:0:0:</channel> <!--Euronews.GR-->
 <channel id="RIKsat.cy"> 1:0:1:30E:1B58:13E:820000:0:0:0:</channel> <!--RIKSat-->
 <channel id="SundanceChannel.gr">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel> <!-- Sundance HD-->
 <channel id="BabyTV.gr">1:0:1:579:2DB4:13E:820000:0:0:0:</channel> <!-- Baby tv-->
