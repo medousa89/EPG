@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?> 
+<?xml version="1.0" encoding="utf-8"?> 
 <!-- service references can be found in /etc/enigma2/lamedb -->
 <channels>
 <channel id="Boomerang.gr">1:0:1:1F5:1C00:D2:D70000:0:0:0:</channel> <!-- Boomerang.gr-->
@@ -50,7 +50,7 @@
 <channel id="EuroSport1.gr"> 1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
 <channel id="EuroSport1.gr"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
 <channel id="EuroSport2.gr"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
-<channel id="ERTWorld.gr"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<channel id="ert.ertworld.gr"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
 <!-- 3E -->
 <!-- <channel id="EPT-HD.gr">1:0:1:28:2:212C:1E0000:0:0:0:</channel> --> <!-- EPT-HD --> 
 <!-- 39E -->
