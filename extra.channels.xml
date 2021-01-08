@@ -62,7 +62,7 @@
 <!-- 3E -->
 <!-- <channel id="EPT-HD.gr">1:0:1:28:2:212C:1E0000:0:0:0:</channel> --> <!-- EPT-HD --> 
 <!-- 39E -->
-<channel id="digea.4e.gr"> 1:0:1:76:1:2BE:1860000:0:0:0:</channel> <!--4E-->
+<channel id="digea.4e.gr"> 1:0:1:4:1:2BE:1860000:0:0:0:</channel> <!--4E-->
 <channel id="ert.ertworld.gr"> 1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
 <channel id="RIKsat.cy"> 1:0:1:1:1:2BE:1860000:0:0:0:</channel> <!--RIKSat-->
 <!--iptv -->
