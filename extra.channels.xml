@@ -129,7 +129,7 @@
 <channel id="digea.trt.gr">1:0:1:5960:5960:0:0:0:0:0:http%3a//example.com</channel> <!-- TRT -->
 <channel id="digea.tv10.gr">1:0:1:5965:5965:0:0:0:0:0:http%3a//example.com</channel> <!-- TV 10 -->
 <channel id="digea.smileplus.gr">1:0:1:5970:5970:0:0:0:0:0:http%3a//example.com</channel> <!-- SMILE PLUS -->
-<channel id="digea.etv.gr">1:0:1:5100:5100:0:0:0:0:0:http%3a//example.com</channel> <!-- ETV -->
+<channel id="digea.etv.gr">1:0:1:3030:3030:0:0:0:0:0:http%3a//example.com</channel> <!-- ETV -->
 <channel id="digea.enake.gr">1:0:1:5104:5104:0:0:0:0:0:http%3a//example.com</channel> <!-- ENA K.E. -->
 <channel id="digea.starke.gr">1:0:1:5108:5108:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR K.E. -->
 <channel id="digea.art.gr">1:0:1:3074:3074:0:0:0:0:0:http%3a//example.com</channel> <!-- ART -->
@@ -138,7 +138,7 @@
 <channel id="digea.atticatv.gr">1:0:1:3008:3008:0:0:0:0:0:http%3a//example.com</channel> <!-- ATTICA TV -->
 <channel id="digea.bluesky.gr">1:0:1:3012:3012:0:0:0:0:0:http%3a//example.com</channel> <!-- BLUE SKY -->
 <channel id="digea.channel9.gr">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- CHANNEL 9 -->
-<channel id="digea.aechannel.gr">1:0:1:3030:3030:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL -->
+<channel id="digea.aechannel.gr">1:0:1:F3030:F3030:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL -->
 <channel id="digea.hightv.gr">1:0:1:3034:3034:0:0:0:0:0:http%3a//example.com</channel> <!-- HIGH TV -->
 <channel id="digea.kontra.gr">1:0:1:3038:3038:0:0:0:0:0:http%3a//example.com</channel> <!-- KONTRA -->
 <channel id="digea.madtv.gr">1:0:1:3042:3042:0:0:0:0:0:http%3a//example.com</channel> <!-- MAD TV -->
