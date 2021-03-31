@@ -68,12 +68,14 @@
 <!-- 13E -->
 <channel id="cyta.euronews.cy"> 1:0:1:7E2:22C4:13E:820000:0:0:0:</channel> <!--Euronews.GR-->
 <channel id="RIKsat.cy"> 1:0:1:30E:1B58:13E:820000:0:0:0:</channel> <!--RIKSat-->
+<channel id="RIKsat.cy"> 1:0:1:132A:33F4:13E:820000:0:0:0:</channel> <!--RIKSat-->
 <channel id="SundanceChannel.gr">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel> <!-- Sundance HD-->
 <channel id="BabyTV.gr">1:0:1:579:2DB4:13E:820000:0:0:0:</channel> <!-- Baby tv-->
 <channel id="nova.eurosport1.gr"> 1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
 <channel id="nova.eurosport1.gr"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
 <channel id="nova.eurosport2.gr"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <channel id="ert.ertworld.gr"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<channel id="ert.ertworld.gr"> 1:0:1:161:1C84:13E:820000:0:0:0:</channel> <!--ERTWorld-->
 <!-- 9E -->
 <channel id="ant1eu.ant1europe.eu">1:0:1:42D:2:AA:5A0000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
 <channel id="ant1eu.ant1europe.eu">1:0:1:415:2:AA:460000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
