@@ -201,4 +201,5 @@
 <channel id="cyta.sigma.cy">1:0:1:999:999:0:0:0:0:0:http%3a//example.com</channel> <!-- sigma tv cy -->
 <channel id="cyta.tvmall.cy">1:0:1:981:981:0:0:0:0:0:http%3a//example.com</channel> <!-- TV MALL -->
 <channel id="cyta.smiletv.cy">1:0:1:988:988:0:0:0:0:0:http%3a//example.com</channel> <!--smile tv cy -->
+<channel id="cyta.greekcinema.cy">"1:0:1:133:133:0:0:0:0:0:https%3a//example.com </channel> <!--Greek Cinema -->
 </channels>
