@@ -24,8 +24,8 @@
 <channel id="ViasatHistory.gr">1:0:1:195A:14:56:300000:0:0:0:</channel> <!-- Viasat History (FSS)-->
 <channel id="ViasatExplore.gr">1:0:1:190A:14:56:300000:0:0:0:</channel> <!-- Viasat Explore (FSS)-->
 <channel id="ViasatNature.gr">1:0:1:7A8:1D:56:300000:0:0:0:</channel> <!-- Viasat Nature (FSS)-->
-<channel id="nova.eurosport2.gr">1:0:19:125C:1:5E:30B048:0:0:0:</channel> <!--EuroSport2HD.gr-->
-<channel id="nova.eurosport2.gr">1:0:19:125C:1:5E:300000:0:0:0:</channel> <!--EuroSport2HD.gr-->
+<channel id="cyta.eurosport2.cy">1:0:19:125C:1:5E:30B048:0:0:0:</channel> <!--EuroSport2HD.gr-->
+<channel id="cyta.eurosport2.cy">1:0:19:125C:1:5E:300000:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <!-- thor powervu -->
 <channel id="cyta.discovery.cy">1:0:1:44C:2:5E:E08B00F:0:0:0:</channel> <!-- Discovery Central Europe HD-->
 <channel id="cyta.animalplanet.cy">1:0:1:A2E:2:5E:E08B00F:0:0:0:</channel> <!-- Animal Planet HD-->
@@ -71,9 +71,9 @@
 <channel id="RIKsat.cy"> 1:0:1:132A:33F4:13E:820000:0:0:0:</channel> <!--RIKSat-->
 <channel id="SundanceChannel.gr">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel> <!-- Sundance HD-->
 <channel id="BabyTV.gr">1:0:1:579:2DB4:13E:820000:0:0:0:</channel> <!-- Baby tv-->
-<channel id="nova.eurosport1.gr"> 1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
-<channel id="nova.eurosport1.gr"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
-<channel id="nova.eurosport2.gr"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
+<channel id="cyta.eurosport1.cy"> 1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
+<channel id="cyta.eurosport1.cy"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
+<channel id="cyta.eurosport2.cy"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <channel id="ert.ertworld.gr"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
 <channel id="ert.ertworld.gr"> 1:0:1:161:1C84:13E:820000:0:0:0:</channel> <!--ERTWorld-->
 <!-- 9E -->
