@@ -2,12 +2,12 @@
 <!-- service references can be found in /etc/enigma2/lamedb -->
 <channels>
 <!-- sirius powervu -->
-<channel id="cyta.discovery.cy">1:0:1:C8:1:5E:30B022:0:0:0:</channel> <!-- Discovery Central Europe-->
-<channel id="cyta.animalplanet.cy">1:0:1:64:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
+<channel id="cyta.discovery.cy">1:0:19:14B4:C3AA:9E:5A0000:0:0:0:</channel> <!-- Discovery Central Europe-->
+<channel id="cyta.animalplanet.cy">1:0:19:1518:C3AA:9E:5A0000:0:0:0:</channel> <!-- Animal Planet Europe-->
 <channel id="cyta.animalplanet.cy">1:0:1:65:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
-<channel id="cyta.discoveryscience.cy">1:0:1:385:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
+<channel id="cyta.discoveryscience.cy">1:0:19:1644:C3AA:9E:5A0000:0:0:0:</channel> <!-- Science Europe-->
 <channel id="cyta.discoveryscience.cy">1:0:1:384:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
-<channel id="cyta.id.cy">1:0:1:190:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
+<channel id="cyta.id.cy">1:0:19:157C:C3AA:9E:5A0000:0:0:0:</channel> <!-- ID Xtra Europe-->
 <channel id="cyta.id.cy">1:0:1:191:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
 <channel id="cyta.tlc.cy">1:0:1:B54:1:5E:30B048:0:0:0:</channel> <!-- TLC Pan Regional-->
 <channel id="cyta.id.cy">1:0:1:12C:1:5E:30B022:0:0:0:</channel> <!-- ID  -->
@@ -18,7 +18,7 @@
 <channel id="cyta.discoveryscience.cy">1:0:1:384:1:5E:300000:0:0:0:</channel> <!-- Science Europe-->
 <channel id="cyta.id.cy">1:0:1:190:1:5E:30000:0:0:0:</channel> <!-- ID Xtra Europe-->
 <channel id="cyta.id.cy">1:0:1:191:1:5E:300000:0:0:0:</channel> <!-- ID Xtra Europe-->
-<channel id="cyta.tlc.cy">1:0:1:B54:1:5E:300000:0:0:0:</channel> <!-- TLC Pan Regional-->
+<channel id="cyta.tlc.cy">1:0:16:16A8:C3AA:9E:5A0000:0:0:0:</channel> <!-- TLC Pan Regional-->
 <channel id="cyta.id.cy">1:0:1:12C:1:5E:300000:0:0:0:</channel> <!-- ID  -->
 <!-- sirius other -->
 <channel id="ViasatHistory.gr">1:0:1:195A:14:56:300000:0:0:0:</channel> <!-- Viasat History (FSS)-->
@@ -48,7 +48,7 @@
 <channel id="cyta.bbcearth.cy">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
 <channel id="cyta.bbcearth.cy">1:0:19:1C2A:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
 <!-- 23.5 -->
-<channel id="travel.gr">1:0:19:519F:C8B:3:EB0000:0:0:0:</channel> <!-- Travel Channel HD-->
+<channel id="travel.gr">1:0:19:1388:C3AA:9E:5A0000:0:0:0:</channel> <!-- Travel Channel HD-->
 <channel id="natgeoHD.gr">1:0:19:303:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD CZ-->
 <channel id="NatGeoWild.gr">1:0:19:305:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD CZ-->
 <channel id="NatGeoWild.gr">1:0:19:306:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD DUT-->
