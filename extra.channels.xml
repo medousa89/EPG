@@ -9,7 +9,7 @@
 <channel id="cyta.discoveryscience.cy">1:0:1:384:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
 <channel id="cyta.id.cy">1:0:19:157C:C3AA:9E:5A0000:0:0:0:</channel> <!-- ID Xtra Europe-->
 <channel id="cyta.id.cy">1:0:1:191:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
-<channel id="cyta.tlc.cy">1:0:1:B54:1:5E:30B048:0:0:0:</channel> <!-- TLC Pan Regional-->
+<channel id="TLC.gr">1:0:19:1450:C3AA:9E:5A0000:0:0:0:</channel> <!-- TLC Pan Regional-->
 <channel id="cyta.id.cy">1:0:1:12C:1:5E:30B022:0:0:0:</channel> <!-- ID  -->
 <channel id="cyta.discovery.cy">1:0:1:C8:1:5E:30B000:0:0:0:</channel> <!-- Discovery Central Europe-->
 <channel id="cyta.animalplanet.cy">1:0:1:64:1:5E:30B000:0:0:0:</channel> <!-- Animal Planet Europe-->
