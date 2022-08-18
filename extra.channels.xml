@@ -36,6 +36,7 @@
 <channel id="cyta.id.cy">1:0:1:A8C:2:5E:E08B00F:0:0:0:</channel> <!-- ID Xtra Europe HD-->
 <channel id="CrimeInvestigation.gr">1:0:1:1E88:14:46:E080000:0:0:0:</channel> <!-- Crime + Investigation Europe-->
 <channel id="cyta.history.cy">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
+<channel id="History2Asia.us">1:0:19:1C16:29:46:E080000:0:0:0:</channel> <!-- History2 Europe-->
 <channel id="cyta.discovery.cy">1:0:1:44C:2:5E:E080000:0:0:0:</channel> <!-- Discovery Central Europe HD-->
 <channel id="cyta.animalplanet.cy">1:0:1:A2E:2:5E:E080000:0:0:0:</channel> <!-- Animal Planet HD-->
 <channel id="cyta.discoveryscience.cy">1:0:1:C80:2:5E:E080000:0:0:0:</channel> <!-- Science Europe HD-->
