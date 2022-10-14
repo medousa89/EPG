@@ -75,8 +75,8 @@
 <channel id="cyta.eurosport1.cy"> 1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
 <channel id="cyta.eurosport1.cy"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
 <channel id="cyta.eurosport2.cy"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
-<channel id="ert.ertworld.gr"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
-<channel id="ert.ertworld.gr"> 1:0:1:161:1C84:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<channel id="ertworld"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<channel id="ertworld"> 1:0:1:161:1C84:13E:820000:0:0:0:</channel> <!--ERTWorld-->
 <!-- 9E -->
 <channel id="ant1europe">1:0:1:42D:2:AA:5A0000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
 <channel id="ant1europe">1:0:1:415:2:AA:460000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
@@ -84,8 +84,8 @@
 <channel id="RIKsat.cy"> 1:0:1:20B:17:3:130000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ert.ertworld.gr"> 1:0:1:20A:17:3:130000:0:0:0:</channel> <!--ERTWorld--> 
 <!-- 39E -->
-<channel id="digea.4e.gr">1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--4E-->
-<channel id="ert.ertworld.gr">1:0:1:161:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
+<channel id="4e">1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--4E-->
+<channel id="ertworld">1:0:1:161:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
 <channel id="RIKsat.cy">1:0:1:2:1:2BE:1860000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ertnews">1:0:1:29:2:212C:1860000:0:0:0:</channel> <!--ertNews-->
 <!--iptv -->
