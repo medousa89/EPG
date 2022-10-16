@@ -88,6 +88,9 @@
 <channel id="ertworld">1:0:1:161:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
 <channel id="RIKsat.cy">1:0:1:2:1:2BE:1860000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ertnews">1:0:1:29:2:212C:1860000:0:0:0:</channel> <!--ertNews-->
+<channel id="ert1">1:0:1:28:2:212C:1860000:0:0:0:</channel> <!-- ERT1 HD -->
+<channel id="ert3">1:0:1:2:1:212C:1860000:0:0:0:</channel> <!-- ERT3 HD -->
+<channel id="ert2">1:0:1:1:1:212C:1860000:0:0:0:</channel> <!-- ERT2 HD-->
 <!--iptv -->
 <!-- DIGEA -->
 <channel id="digea.alpha.gr">1:0:1:100:100:0:0:0:0:0:http%3a//example.com</channel> <!-- ALPHA -->
