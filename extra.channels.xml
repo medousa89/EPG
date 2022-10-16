@@ -43,7 +43,7 @@
 <channel id="cyta.id.cy">1:0:1:A8C:2:5E:E080000:0:0:0:</channel> <!-- ID Xtra Europe HD-->
 
 <!-- thor other -->
-<channel id="cyta.history.cy">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
+<channel id="TheHistoryChannel.gr">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
 <channel id="natgeo.gr">1:0:1:78BC:2C5:600:E080000:0:0:0</channel> <!-- National Geographic RO-->
 <channel id="SundanceChannel.gr">1:0:19:791F:2C6:600:E080000:0:0:0:</channel> <!-- sundance tv-->
 <channel id="cyta.bbcearth.cy">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
