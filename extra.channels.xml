@@ -13,7 +13,6 @@
 <channel id="HistoryChannel">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
 <channel id="HistoryChannel">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
 <channel id="History2Asia.us">1:0:19:1C16:29:46:E080000:0:0:0:</channel> <!-- History2 Europe-->
-<!--<channel id="natgeo">1:0:1:78BC:2C5:600:E080000:0:0:0</channel> <!-- National Geographic RO-->
 <channel id="SundanceChannel.gr">1:0:19:791F:2C6:600:E080000:0:0:0:</channel> <!-- sundance tv-->
 <channel id="BBCEarth">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
 <channel id="BBCEarth">1:0:19:1C2A:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
