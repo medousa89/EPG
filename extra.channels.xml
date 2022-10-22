@@ -14,14 +14,14 @@
 <channel id="HistoryChannel">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
 <channel id="History2Asia.us">1:0:19:1C16:29:46:E080000:0:0:0:</channel> <!-- History2 Europe-->
 <!--<channel id="natgeo">1:0:1:78BC:2C5:600:E080000:0:0:0</channel> <!-- National Geographic RO-->
-<channel id="SundanceChannel">1:0:19:791F:2C6:600:E080000:0:0:0:</channel> <!-- sundance tv-->
+<channel id="SundanceChannel.gr">1:0:19:791F:2C6:600:E080000:0:0:0:</channel> <!-- sundance tv-->
 <channel id="BBCEarth">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
 <channel id="BBCEarth">1:0:19:1C2A:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
 <!-- 23.5 -->
-<channel id="travel">1:0:19:1388:C3AA:9E:5A0000:0:0:0:</channel> <!-- Travel Channel HD-->
-<channel id="natgeoHD">1:0:19:303:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD CZ-->
-<channel id="NatGeoWild">1:0:19:305:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD CZ-->
-<channel id="NatGeoWild">1:0:19:306:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD DUT-->
+<channel id="travel.gr">1:0:19:1388:C3AA:9E:5A0000:0:0:0:</channel> <!-- Travel Channel HD-->
+<channel id="natgeoHD.gr">1:0:19:303:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD CZ-->
+<channel id="NatGeoWild.gr">1:0:19:305:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD CZ-->
+<channel id="NatGeoWild.gr">1:0:19:306:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD DUT-->
 <channel id="natgeoHD.gr">1:0:19:302:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD-->
 <channel id="NatGeoWild.gr">1:0:19:304:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD-->
 <channel id="NauticalChannel.gr">1:0:19:1BFD:C88:3:EB0000:0:0:0:</channel> <!-- Nautical Channel-->
@@ -31,12 +31,11 @@
 <channel id="nova.insighttv">1:0:19:1393:3EA:1:C00000:0:0:0:</channel> <!--InsightTV HD INT-->   
 <channel id="nova.insighttv">1:0:1F:7D0:449:1:C00000:0:0:0:</channel> <!--InsightTV UHD-->  
 <!-- 16.0 -->
-<channel id="nova.myzen">1:0:19:76D:C6D4:16E:A00000:0:0:0:</channel> <!-- MyZen hd -->
+<channel id="myzen.gr">1:0:19:76D:C6D4:16E:A00000:0:0:0:</channel> <!-- MyZen hd -->
 <channel id="ViasatHistory.gr">1:0:19:45C:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History -->
 <channel id="ViasatExplore.gr">1:0:19:45B:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Explore -->
 <channel id="ViasatNature.gr">1:0:19:45A:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Nature -->
 <!-- 13E -->
-<channel id="cyta.euronews.cy"> 1:0:1:7E2:22C4:13E:820000:0:0:0:</channel> <!--Euronews.GR-->
 <channel id="RIKsat.cy"> 1:0:1:30E:1B58:13E:820000:0:0:0:</channel> <!--RIKSat-->
 <channel id="RIKsat.cy"> 1:0:1:132A:33F4:13E:820000:0:0:0:</channel> <!--RIKSat-->
 <channel id="SundanceChannel.gr">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel> <!-- Sundance HD-->
@@ -62,7 +61,7 @@
 <channel id="RIKsat.cy"> 1:0:1:20B:17:3:130000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ertworld"> 1:0:1:20A:17:3:130000:0:0:0:</channel> <!--ERTWorld--> 
 <!-- 39E -->
-<channel id="4e">1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--4E-->
+<channel id="4E.gr">1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--4E-->
 <channel id="ertworld">1:0:1:161:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
 <channel id="RIKsat.cy">1:0:1:2:1:2BE:1860000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ertnews">1:0:1:29:2:212C:1860000:0:0:0:</channel> <!--ertNews-->
