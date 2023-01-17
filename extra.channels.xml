@@ -35,19 +35,19 @@
 <channel id="ViasatExplore.gr">1:0:19:45B:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Explore -->
 <channel id="ViasatNature.gr">1:0:19:45A:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Nature -->
 <!-- 13E -->
-<channel id="RIKsat.cy"> 1:0:1:30E:1B58:13E:820000:0:0:0:</channel> <!--RIKSat-->
-<channel id="RIKsat.cy"> 1:0:1:132A:33F4:13E:820000:0:0:0:</channel> <!--RIKSat-->
+<channel id="RIKsat.cy">1:0:1:30E:1B58:13E:820000:0:0:0:</channel> <!--RIKSat-->
+<channel id="RIKsat.cy">1:0:1:132A:33F4:13E:820000:0:0:0:</channel> <!--RIKSat-->
 <channel id="SundanceChannel.gr">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel> <!-- Sundance HD-->
 <channel id="BabyTV.gr">1:0:1:579:2DB4:13E:820000:0:0:0:</channel> <!-- Baby tv-->
 <channel id="FoodNetwork.gr">1:0:19:10EC:3E8:13E:820000:0:0:0:</channel> <!-- Food Network HD EMEA -->
-<channel id="Εurosport1"> 1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
-<channel id="Εurosport1"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
-<channel id="Εurosport2"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
-<channel id="ertworld"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
-<channel id="ertworld"> 1:0:1:161:1C84:13E:820000:0:0:0:</channel> <!--ERTWorld-->
-<channel id="Εurosport1"> 1:0:19:2EF:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 1 Greek HD-->
-<channel id="Εurosport1"> 1:0:19:2BD:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 1 International HD-->
-<channel id="Εurosport2"> 1:0:19:2BE:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 2 International HD-->
+<channel id="Εurosport1">1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
+<channel id="Εurosport1">1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
+<channel id="Εurosport2">1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
+<channel id="ertworld">1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<channel id="ertworld">1:0:1:161:1C84:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<channel id="Εurosport1">1:0:19:2EF:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 1 Greek HD-->
+<channel id="Εurosport1">1:0:19:2BD:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 1 International HD-->
+<channel id="Εurosport2">1:0:19:2BE:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 2 International HD-->
 <!-- 9E -->
 <channel id="ant1europe">1:0:1:42D:2:AA:5A0000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
 <channel id="ant1europe">1:0:1:415:2:AA:460000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
