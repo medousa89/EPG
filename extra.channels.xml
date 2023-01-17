@@ -45,6 +45,9 @@
 <channel id="Εurosport2"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <channel id="ertworld"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
 <channel id="ertworld"> 1:0:1:161:1C84:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<channel id="Εurosport1"> 1:0:19:2EF:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 1 Greek HD-->
+<channel id="Εurosport1"> 1:0:19:2BD:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 1 International HD-->
+<channel id="Εurosport2"> 1:0:19:2BE:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 2 International HD-->
 <!-- 9E -->
 <channel id="ant1europe">1:0:1:42D:2:AA:5A0000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
 <channel id="ant1europe">1:0:1:415:2:AA:460000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
