@@ -72,6 +72,7 @@
 <!-- DTT GR -->
 <channel id="ertnews">1:0:1:29:2:212C:EEEE0000:0:0:0:</channel> <!--ertNews-->
 <channel id="ertnews">1:0:1:29:2:212C:EEEE0282:0:0:0:</channel> <!--ertNews--> 
+<channel id="ertnews">1:0:1:29:2:212C:EEEE026A:0:0:0:</channel> <!--ertNews-->
 <!--iptv -->
 <!-- DIGEA -->
 <channel id="alpha">1:0:1:100:100:0:0:0:0:0:http%3a//example.com</channel> <!-- ALPHA -->
