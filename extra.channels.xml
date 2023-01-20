@@ -69,6 +69,9 @@
 <channel id="ert1">1:0:1:28:2:212C:1860000:0:0:0:</channel> <!-- ERT1 HD -->
 <channel id="EPT3.gr">1:0:1:2:1:212C:1860000:0:0:0:</channel> <!-- ERT3 HD -->
 <channel id="ert2">1:0:1:1:1:212C:1860000:0:0:0:</channel> <!-- ERT2 HD-->
+<!-- DTT GR -->
+<channel id="ertnews">1:0:1:29:2:212C:EEEE0000:0:0:0:</channel> <!--ertNews-->
+<channel id="ertnews">1:0:1:29:2:212C:EEEE0282:0:0:0:</channel> <!--ertNews--> 
 <!--iptv -->
 <!-- DIGEA -->
 <channel id="alpha">1:0:1:100:100:0:0:0:0:0:http%3a//example.com</channel> <!-- ALPHA -->
