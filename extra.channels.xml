@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <!-- service references can be found in /etc/enigma2/lamedb -->
 <channels>
-<!-- sirius powervu -->
+<!-- sirius powervu   -->
 <!-- sirius other -->
 <channel id="ViasatHistory.gr">1:0:1:195A:14:56:300000:0:0:0:</channel> <!-- Viasat History (FSS)-->
 <channel id="ViasatExplore.gr">1:0:1:190A:14:56:300000:0:0:0:</channel> <!-- Viasat Explore (FSS)-->
