@@ -29,7 +29,7 @@ jobs:
     
     - name: run
       run: |
-           xz -k *.xml
+           xz -k extra.channels.xml
            
     - name: Upload
       uses: svenstaro/upload-release-action@v2
