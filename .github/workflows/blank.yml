@@ -37,7 +37,8 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: ./extra.channels.xml.xz 
           asset_name:  extra.channels.xml.xz 
-          tag: 1.1
+          title: alpha
+          tag: 1.0
           overwrite: true
      
      
