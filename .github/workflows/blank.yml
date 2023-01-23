@@ -37,7 +37,7 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: ./extra.channels.xml.xz 
           asset_name:  extra.channels.xml.xz 
-          title: alpha
+          title: "Release: $version"
           tag: 1.1
           overwrite: true
      
