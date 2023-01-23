@@ -38,6 +38,7 @@ jobs:
           file: ./extra.channels.xml.xz 
           asset_name:  extra.channels.xml.xz 
           tag: 1.0
+          name: Alpha
           overwrite: true
      
      
