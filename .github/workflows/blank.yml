@@ -29,6 +29,7 @@ jobs:
     
     - name: run
       run: |
+           echo -e '<''\041'"--`date -u` -->" >> extra.channels.xml
            xz -k extra.channels.xml
            
     - name: Upload
