@@ -30,6 +30,14 @@ jobs:
     - name: run
       run: |
            xz -k *.xml
+           
+    - name: Upload
+      uses: svenstaro/upload-release-action@v1
+      with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: ./ extra.channels.xml.xz 
+          asset_name:  extra.channels.xml.xz 
+          overwrite: true
      
      
            
