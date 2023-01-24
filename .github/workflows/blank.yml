@@ -29,7 +29,7 @@ jobs:
     
     - name: run
       run: |
-           echo -e '<''\041'"--`date -u` -->" >> extra.channels.xml
+           echo -e '<''\041'"--`date TZ="Europe/Athens"` -->" >> extra.channels.xml
            xz -k extra.channels.xml
            
     - name: Upload
@@ -39,7 +39,7 @@ jobs:
           file: ./extra.channels.xml.xz 
           asset_name:  extra.channels.xml.xz 
           title: "Release: $version"
-          tag: 1.1
+          tag: 1.0
           overwrite: true
      
      
