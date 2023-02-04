@@ -125,7 +125,7 @@
 <channel id="axiontv">1:0:1:5004:5004:0:0:0:0:0:http%3a//example.com</channel> <!-- AXION TV -->
 <channel id="besttv">1:0:1:5006:5006:0:0:0:0:0:http%3a//example.com</channel> <!-- BEST TV -->
 <channel id="hlektratv">1:0:1:5012:5012:0:0:0:0:0:http%3a//example.com</channel> <!-- HLEKTRA TV -->
-<channel id="ionianchannel">1:0:1:5014:5014:0:0:0:0:0:http%3a//example.com</channel> <!-- IONIAN CHANNEL -->
+<channel id="ionian">1:0:1:5014:5014:0:0:0:0:0:http%3a//example.com</channel> <!-- IONIAN CHANNEL -->
 <channel id="lepanto">1:0:1:5030:5030:0:0:0:0:0:http%3a//example.com</channel> <!-- LEPANTO -->
 <channel id="lychnos">1:0:1:5048:5048:0:0:0:0:0:http%3a//example.com</channel> <!-- LYCHNOS -->
 <channel id="mesogeiostv">1:0:1:5034:5034:0:0:0:0:0:http%3a//example.com</channel> <!-- MESOGEIOS TV -->
