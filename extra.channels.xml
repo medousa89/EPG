@@ -142,7 +142,7 @@
 <channel id="smileplus">1:0:1:5970:5970:0:0:0:0:0:http%3a//example.com</channel> <!-- SMILE PLUS -->
 <channel id="etv">1:0:1:3030:3030:0:0:0:0:0:http%3a//example.com</channel> <!-- ETV -->
 <channel id="enake">1:0:1:5104:5104:0:0:0:0:0:http%3a//example.com</channel> <!-- ENA K.E. -->
-<channel id="starke">1:0:1:5108:5108:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR K.E. -->
+<channel id="starttv">1:0:1:5108:5108:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR K.E. -->
 <channel id="art">1:0:1:3074:3074:0:0:0:0:0:http%3a//example.com</channel> <!-- ART -->
 <channel id="extrachannel">1:0:1:3000:3000:0:0:0:0:0:http%3a//example.com</channel> <!-- EXTRA CHANNEL -->
 <channel id="action24">1:0:1:3004:3004:0:0:0:0:0:http%3a//example.com</channel> <!-- ACTION24 -->
