@@ -143,7 +143,7 @@
 <channel id="astratv">1:0:1:5950:5950:0:0:0:0:0:http%3a//example.com</channel> <!-- ASTRA TV -->
 <channel id="thessaliatv">1:0:1:5955:5955:0:0:0:0:0:http%3a//example.com</channel> <!-- THESSALIA TV -->
 <channel id="trt">1:0:1:5960:5960:0:0:0:0:0:http%3a//example.com</channel> <!-- TRT -->
-<channel id="formediatv">1:0:1:5965:5965:0:0:0:0:0:http%3a//example.com</channel> <!-- TV 10 -->
+<channel id="formediatv">1:0:1:5965:5965:0:0:0:0:0:https%3a//example.com</channel> <!-- TV 10 -->
 <channel id="smileplus">1:0:1:5970:5970:0:0:0:0:0:http%3a//example.com</channel> <!-- SMILE PLUS -->
 <!-- Sterea Ellada -->
 <channel id="etv">1:0:1:3030:3030:0:0:0:0:0:http%3a//example.com</channel> <!-- ETV -->
