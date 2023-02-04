@@ -82,7 +82,7 @@
 <channel id="action24">1:0:1:3004:3004:0:0:0:0:0:http%3a//example.com</channel> <!-- ACTION24 -->
 <channel id="atticatv">1:0:1:3008:3008:0:0:0:0:0:http%3a//example.com</channel> <!-- ATTICA TV -->
 <channel id="bluesky">1:0:1:3012:3012:0:0:0:0:0:http%3a//example.com</channel> <!-- BLUE SKY -->
-<channel id="channel9">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- CHANNEL 9 -->
+<channel id="onetv">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- CHANNEL 9 -->
 <channel id="aechannel">1:0:1:F3030:F3030:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL -->
 <channel id="hightv">1:0:1:3034:3034:0:0:0:0:0:http%3a//example.com</channel> <!-- HIGH TV -->
 <channel id="kontra">1:0:1:3038:3038:0:0:0:0:0:http%3a//example.com</channel> <!-- KONTRA -->
