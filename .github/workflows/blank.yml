@@ -1,14 +1,14 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: CI1
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,17 +29,17 @@ jobs:
     
     - name: run
       run: |
-           echo -e '<''\041'"--`date -u` -->" >> extra.channels.xml
-           xz -k extra.channels.xml
+           echo -e '<''\041'"--`date -u` -->" >> extra.channels2.xml
+           xz -k extra.channels2.xml
            
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: ./extra.channels.xml.xz 
-          asset_name:  extra.channels.xml.xz 
+          file: ./extra.channels2.xml.xz 
+          asset_name:  extra.channels2.xml.xz 
           title: "Release: $tag"
-          tag: 1.1
+          tag: 2.1
           prerelease: true
           overwrite: true
      
