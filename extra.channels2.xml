@@ -65,7 +65,7 @@
 <channel id="plp">1:0:1:5007:5007:0:0:0:0:0:http%3a//example.com</channel> <!-- PLP -->
 <channel id="rtpkentpo">1:0:1:5040:5040:0:0:0:0:0:http%3a//example.com</channel> <!-- RTP KENTPO -->
 <channel id="super">1:0:1:5042:5042:0:0:0:0:0:http%3a//example.com</channel> <!-- SUPER -->
-<channel id="superb">1:0:1:5044:5044:0:0:0:0:0:http%3a//example.com</channel> <!-- SUPER B -->
+<channel id="pronews">1:0:1:5044:5044:0:0:0:0:0:http%3a//example.com</channel> <!-- SUPER B -->
 <!-- Thessalia -->
 <channel id="astratv">1:0:1:5950:5950:0:0:0:0:0:http%3a//example.com</channel> <!-- ASTRA TV -->
 <channel id="thessaliatv">1:0:1:5955:5955:0:0:0:0:0:http%3a//example.com</channel> <!-- THESSALIA TV -->
