@@ -208,4 +208,6 @@
 <channel id="smiletvcy">1:0:1:561210:561210:0:0:0:0:0:http%3a//example.com</channel> <!-- smiletv cy -->
 <channel id="berginacy">1:0:1:2221:2221:0:0:0:0:0:http%3a//example.com</channel> <!-- bergina cy -->
 <channel id="rikhd">1:0:1:608096:608096:0:0:0:0:0:http%3a//example.com</channel> <!-- rikhd -->
+<channel id="rik1">1:0:1:561066:561066:0:0:0:0:0:http%3a//example.com</channel> <!-- rik1 -->
+<channel id="rik2">1:0:1:561078:561078:0:0:0:0:0:http%3a//example.com</channel> <!-- rik2-->
 </channels>
