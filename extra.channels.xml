@@ -196,7 +196,7 @@
 <channel id="ert2">1:0:1:49:49:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT2 -->
 <!--other-->  
 <channel id="ONEChannel">1:0:1:983:983:0:0:0:0:0:http%3a//example.com</channel> <!-- ONE Channel -->
-<channel id="EuroNews">1:0:1:573974:573974:0:0:0:0:0:http%3a//example.com</channel> <!-- euronews -->
+<channel id="EuroNews">1:0:1:5739:5739:0:0:0:0:0:http%3a//example.com</channel> <!-- euronews -->
 <!--Cyprus-->
 <channel id="ant1cy">1:0:1:2226:2226:0:0:0:0:0:https%3a//example.com</channel> <!-- ant1 cy -->
 <channel id="sigma">1:0:1:2227:2227:0:0:0:0:0:http%3a//example.com</channel> <!-- sigma cy -->
