@@ -200,11 +200,11 @@
 <!--Cyprus-->
 <channel id="ant1cy">1:0:1:2226:2226:0:0:0:0:0:https%3a//example.com</channel> <!-- ant1 cy -->
 <channel id="sigma">1:0:1:2227:2227:0:0:0:0:0:http%3a//example.com</channel> <!-- sigma cy -->
-<channel id="omega">1:0:1:289555:289555:0:0:0:0:0:http%3a//example.com</channel> <!-- omega cy -->
+<channel id="omega">1:0:1:2225:2225:0:0:0:0:0:http%3a//example.com</channel> <!-- omega cy -->
 <channel id="alphacy">1:0:1:2228:2228:0:0:0:0:0:http%3a//example.com</channel> <!-- alpha cy -->
-<channel id="plustv">1:0:1:289568:289568:0:0:0:0:0:http%3a//example.com</channel> <!-- plustv cy -->
-<channel id="capitaltv">1:0:1:561166:561166:0:0:0:0:0:http%3a//example.com</channel> <!-- capitaltv cy -->
-<channel id="extracy">1:0:1:561178:561178:0:0:0:0:0:http%3a//example.com</channel> <!-- extra cy -->
+<channel id="plustv">1:0:1:2229:2229:0:0:0:0:0:http%3a//example.com</channel> <!-- plustv cy -->
+<channel id="capitaltv">1:0:1:2230:2230:0:0:0:0:0:http%3a//example.com</channel> <!-- capitaltv cy -->
+<channel id="extracy">1:0:1:2231:2231:0:0:0:0:0:http%3a//example.com</channel> <!-- extra cy -->
 <channel id="smiletvcy">1:0:1:2232:2232:0:0:0:0:0:http%3a//example.com</channel> <!-- smiletv cy -->
 <channel id="berginacy">1:0:1:2221:2221:0:0:0:0:0:http%3a//example.com</channel> <!-- bergina cy -->
 <channel id="rikhd">1:0:1:2224:2224:0:0:0:0:0:http%3a//example.com</channel> <!-- rikhd -->
