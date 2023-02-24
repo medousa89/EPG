@@ -198,16 +198,16 @@
 <channel id="ONEChannel">1:0:1:983:983:0:0:0:0:0:http%3a//example.com</channel> <!-- ONE Channel -->
 <channel id="EuroNews">1:0:1:573974:573974:0:0:0:0:0:http%3a//example.com</channel> <!-- euronews -->
 <!--Cyprus-->
-<channel id="ant1cy">1:0:1:289542:289542:0:0:0:0:0:https%3a//example.com</channel> <!-- ant1 cy -->
-<channel id="sigma">1:0:1:289530:289530:0:0:0:0:0:http%3a//example.com</channel> <!-- sigma cy -->
+<channel id="ant1cy">1:0:1:2226:2226:0:0:0:0:0:https%3a//example.com</channel> <!-- ant1 cy -->
+<channel id="sigma">1:0:1:2227:2227:0:0:0:0:0:http%3a//example.com</channel> <!-- sigma cy -->
 <channel id="omega">1:0:1:289555:289555:0:0:0:0:0:http%3a//example.com</channel> <!-- omega cy -->
-<channel id="alphacy">1:0:1:289607:289607:0:0:0:0:0:http%3a//example.com</channel> <!-- alpha cy -->
+<channel id="alphacy">1:0:1:2228:2228:0:0:0:0:0:http%3a//example.com</channel> <!-- alpha cy -->
 <channel id="plustv">1:0:1:289568:289568:0:0:0:0:0:http%3a//example.com</channel> <!-- plustv cy -->
 <channel id="capitaltv">1:0:1:561166:561166:0:0:0:0:0:http%3a//example.com</channel> <!-- capitaltv cy -->
 <channel id="extracy">1:0:1:561178:561178:0:0:0:0:0:http%3a//example.com</channel> <!-- extra cy -->
-<channel id="smiletvcy">1:0:1:561210:561210:0:0:0:0:0:http%3a//example.com</channel> <!-- smiletv cy -->
+<channel id="smiletvcy">1:0:1:2232:2232:0:0:0:0:0:http%3a//example.com</channel> <!-- smiletv cy -->
 <channel id="berginacy">1:0:1:2221:2221:0:0:0:0:0:http%3a//example.com</channel> <!-- bergina cy -->
-<channel id="rikhd">1:0:1:608096:608096:0:0:0:0:0:http%3a//example.com</channel> <!-- rikhd -->
-<channel id="rik1">1:0:1:561066:561066:0:0:0:0:0:http%3a//example.com</channel> <!-- rik1 -->
-<channel id="rik2">1:0:1:561078:561078:0:0:0:0:0:http%3a//example.com</channel> <!-- rik2-->
+<channel id="rikhd">1:0:1:2224:2224:0:0:0:0:0:http%3a//example.com</channel> <!-- rikhd -->
+<channel id="rik1">1:0:1:2222:2222:0:0:0:0:0:http%3a//example.com</channel> <!-- rik1 -->
+<channel id="rik2">1:0:1:2223:2223:0:0:0:0:0:http%3a//example.com</channel> <!-- rik2-->
 </channels>
