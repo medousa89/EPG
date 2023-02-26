@@ -58,7 +58,7 @@
 <channel id="HGTV">1:0:19:13EC:C3AA:9E:5A0000:0:0:0:</channel> <!-- HGTV HD -->
 <channel id="TLC">1:0:16:16A8:C3AA:9E:5A0000:0:0:0:</channel> <!-- TLC Pan Regional-->
 <channel id="TLC">1:0:19:170C:C3AA:9E:5A0000:0:0:0:</channel> <!-- TLC Pan Regional HD-->
-<channel id="DTXRussia.ru">1:0:19:15E0:C3AA:9E:5A0000:0:0:0:</channel> <!-- DTX-->
+<channel id="DTX.hr">1:0:19:15E0:C3AA:9E:5A0000:0:0:0:</channel> <!-- DTX-->
 <!--1.9E-->
 <channel id="RIKsat.cy"> 1:0:1:20B:17:3:130000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ertworld"> 1:0:1:20A:17:3:130000:0:0:0:</channel> <!--ERTWorld--> 
