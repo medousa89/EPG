@@ -10,12 +10,15 @@
 <channel id="Eurosport2">1:0:19:125C:1:5E:300000:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <!-- thor powervu -->
 <!-- thor other -->
+<channel id="HistoryChannel">1:0:1:780F:2C3:600:E080000:0:0:0:</channel> <!-- History Pan Euro -->
+<channel id="HistoryChannel">1:0:1:780E:2C3:600:E080000:0:0:0:</channel> <!-- History Hungary-->
 <channel id="HistoryChannel">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
 <channel id="HistoryChannel">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
 <channel id="History2Asia.us">1:0:19:1C16:29:46:E080000:0:0:0:</channel> <!-- History2 Europe-->
 <channel id="SundanceChannel.gr">1:0:19:791F:2C6:600:E080000:0:0:0:</channel> <!-- sundance tv-->
 <channel id="BBCEarth.gr">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
 <channel id="BBCEarth.gr">1:0:19:1C2A:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
+<channel id="BBCEarth.gr">1:0:19:7812:2C3:600:E080000:0:0:0:</channel> <!-- TEST BBC Earth-->
 <!-- 23.5 -->
 <channel id="travel.gr">1:0:19:1388:C3AA:9E:5A0000:0:0:0:</channel> <!-- Travel Channel HD-->
 <channel id="natgeoHD.gr">1:0:19:303:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD CZ-->
