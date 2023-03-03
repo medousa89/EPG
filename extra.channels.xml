@@ -3,6 +3,7 @@
 <channels>
 <!-- sirius powervu -->
 <!-- sirius other -->
+<channel id="CrimeInvestigation.gr">1:0:1:7810:2C3:600:E080000:0:0:0:</channel> <!-- Crime and Investigation-->
 <channel id="ViasatHistory.gr">1:0:1:195A:14:56:300000:0:0:0:</channel> <!-- Viasat History (FSS)-->
 <channel id="ViasatExplore.gr">1:0:1:190A:14:56:300000:0:0:0:</channel> <!-- Viasat Explore (FSS)-->
 <channel id="ViasatNature.gr">1:0:1:7A8:1D:56:300000:0:0:0:</channel> <!-- Viasat Nature (FSS)-->
