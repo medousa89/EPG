@@ -39,7 +39,8 @@ jobs:
           file: ./extra.channels.xml.xz 
           asset_name:  extra.channels.xml.xz 
           title: "Release: $tag"
-          tag: 1.*
+          tag: '1.*'
+          required: true
           prerelease: true
           overwrite: true
      
