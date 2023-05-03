@@ -35,9 +35,10 @@
 <channel id="nova.insighttv">1:0:1F:7D0:449:1:C00000:0:0:0:</channel> <!--InsightTV UHD-->  
 <!-- 16.0 -->
 <channel id="myzen">1:0:19:76D:C6D4:16E:A00000:0:0:0:</channel> <!-- MyZen hd -->
-<channel id="ViasatHistory.gr">1:0:19:45C:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History -->
-<channel id="ViasatExplore.gr">1:0:19:45B:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Explore -->
-<channel id="ViasatNature.gr">1:0:19:45A:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Nature -->
+<channel id="ViasatHistory.gr">1:0:19:45C:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History hd-->
+<channel id="ViasatExplore.gr">1:0:19:45B:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Explore hd-->
+<channel id="ViasatNature.gr">1:0:19:45A:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Nature hd-->
+<channel id="ViasatHistory.gr">1:0:1:44F:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History sd -->
 <!-- 13E -->
 <channel id="RIKsat.cy">1:0:1:30E:1B58:13E:820000:0:0:0:</channel> <!--RIKSat-->
 <channel id="RIKsat.cy">1:0:1:132A:33F4:13E:820000:0:0:0:</channel> <!--RIKSat-->
