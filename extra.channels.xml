@@ -218,4 +218,5 @@
 <channel id="rikhd">1:0:1:2224:2224:0:0:0:0:0:http%3a//example.com</channel> <!-- rikhd -->
 <channel id="rik1">1:0:1:2222:2222:0:0:0:0:0:http%3a//example.com</channel> <!-- rik1 -->
 <channel id="rik2">1:0:1:2223:2223:0:0:0:0:0:http%3a//example.com</channel> <!-- rik2-->
+<channel id="ant1plus">5001:0:1:514:65:212C:1860000:0:0:0:http%3a//example.com</channel> 
 </channels>
