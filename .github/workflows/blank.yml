@@ -29,7 +29,7 @@ jobs:
     
     - name: run
       run: |
-           echo -e '<''\041'"--`date -u` -->" >> extra.channels2.xml
+           echo -e '<''\041'"--` TZ='Europe/Athens' date +"%d-%m-%Y %T"` -->" >> extra.channels2.xml
            xz -k extra.channels2.xml
            
     - name: Upload
