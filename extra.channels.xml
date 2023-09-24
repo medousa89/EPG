@@ -101,7 +101,7 @@
 <channel id="lydiatv">1:0:1:5755:5755:0:0:0:0:0:http%3a//example.com</channel> <!-- LYDIA TV -->
 <channel id="orestiadatv">1:0:1:5750:5750:0:0:0:0:0:http%3a//example.com</channel> <!-- ORESTIADA TV -->
 <channel id="tvrodopi">1:0:1:5760:5760:0:0:0:0:0:http%3a//example.com</channel> <!-- TV RODOPI -->
-<channel id="starbellados">1:0:1:5765:5765:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR B. ELLADOS -->
+<channel id="starbe">1:0:1:5765:5765:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR B. ELLADOS -->
 <channel id="thrakinet">1:0:1:5770:5770:0:0:0:0:0:http%3a//example.com</channel> <!-- THRAKINET -->
 <channel id="tileepiloges">1:0:1:5775:5775:0:0:0:0:0:http%3a//example.com</channel> <!-- TILE EPILOGES -->
 <channel id="aepsilonanmakthrakis">1:0:1:5780:5780:0:0:0:0:0:http%3a//example.com</channel> <!-- a.Epsilon An. Mak. Thrakis -->
@@ -157,7 +157,7 @@
 <!-- Sterea Ellada -->
 <channel id="etv">1:0:1:3030:3030:0:0:0:0:0:http%3a//example.com</channel> <!-- ETV -->
 <channel id="enake">1:0:1:5104:5104:0:0:0:0:0:http%3a//example.com</channel> <!-- ENA K.E. -->
-<channel id="startke">1:0:1:5108:5108:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR K.E. -->
+<channel id="starke">1:0:1:5108:5108:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR K.E. -->
 <!-- Attiki -->
 <channel id="art">1:0:1:3074:3074:0:0:0:0:0:http%3a//example.com</channel> <!-- ART -->
 <channel id="extrachannel">1:0:1:3000:3000:0:0:0:0:0:http%3a//example.com</channel> <!-- EXTRA CHANNEL -->
