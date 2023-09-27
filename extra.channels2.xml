@@ -19,7 +19,7 @@
 <channel id="lydiatv">1:0:1:5755:5755:0:0:0:0:0:http%3a//example.com</channel> <!-- LYDIA TV -->
 <channel id="orestiadatv">1:0:1:5750:5750:0:0:0:0:0:http%3a//example.com</channel> <!-- ORESTIADA TV -->
 <channel id="tvrodopi">1:0:1:5760:5760:0:0:0:0:0:http%3a//example.com</channel> <!-- TV RODOPI -->
-<channel id="starbellados">1:0:1:5765:5765:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR B. ELLADOS -->
+<channel id="starbe">1:0:1:5765:5765:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR B. ELLADOS -->
 <channel id="thrakinet">1:0:1:5770:5770:0:0:0:0:0:http%3a//example.com</channel> <!-- THRAKINET -->
 <channel id="tileepiloges">1:0:1:5775:5775:0:0:0:0:0:http%3a//example.com</channel> <!-- TILE EPILOGES -->
 <channel id="aepsilonanmakthrakis">1:0:1:5780:5780:0:0:0:0:0:http%3a//example.com</channel> <!-- a.Epsilon An. Mak. Thrakis -->
@@ -49,7 +49,7 @@
 <channel id="corfutv">1:0:1:7015:7015:0:0:0:0:0:http%3a//example.com</channel> <!-- CORFU TV -->
 <channel id="epirustv1">1:0:1:7050:7050:0:0:0:0:0:http%3a//example.com</channel> <!-- EPIRUS TV1 -->
 <channel id="itv">1:0:1:7055:7055:0:0:0:0:0:http%3a//example.com</channel> <!-- ITV -->
-<channel id="starttv">1:0:1:7065:7065:0:0:0:0:0:http%3a//example.com</channel> <!-- START TV -->
+<channel id="startv">1:0:1:7065:7065:0:0:0:0:0:http%3a//example.com</channel> <!-- START TV -->
 <!-- Pelloponisos -->
 <channel id="achaiachannel">1:0:1:5000:5000:0:0:0:0:0:http%3a//example.com</channel> <!-- ACHAIA CHANNEL -->
 <channel id="arkadikitv">1:0:1:5002:5002:0:0:0:0:0:http%3a//example.com</channel> <!-- ARKADIKI TV -->
