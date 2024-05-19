@@ -3,9 +3,9 @@
 <channels>
 <!-- 39.0E --><channel id="alpha.gr">1:0:1:44C:65:212C:1860000:0:0:0:</channel><!-- alpha -->
 <!-- 39.0E --><channel id="alpha.gr">1:0:1:C1C:69:212C:1860000:0:0:0:</channel><!-- alpha -->
-<!-- 39.0E --><channel id="ANT1.gr">1:0:1:514:65:212C:1860000:0:0:0:</channel><!-- ant-1 -->
-<!-- 39.0E --><channel id="ANT1.gr">1:0:1:514:65:212C:1860000:0:0:0: </channel><!-- ant-1 -->
-<!-- 39.0E --><channel id="ANT1.gr">1:0:1:CE4:69:212C:1860000:0:0:0:</channel><!-- ant-1 -->
+<!-- 39.0E --><channel id="ant1">1:0:1:514:65:212C:1860000:0:0:0:</channel><!-- ant-1 -->
+<!-- 39.0E --><channel id="ant1">1:0:1:514:65:212C:1860000:0:0:0: </channel><!-- ant-1 -->
+<!-- 39.0E --><channel id="ant1">1:0:1:CE4:69:212C:1860000:0:0:0:</channel><!-- ant-1 -->
 <!-- 39.0E --><channel id="EPT1.gr">1:0:1:28:2:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
 <!-- 39.0E --><channel id="EPT1.gr">1:0:1:7:1:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
 <!-- 39.0E --><channel id="EPT1.gr">1:0:1:A:2:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
@@ -43,6 +43,7 @@
 <channel id="Eurosport2">1:0:19:125C:1:5E:300000:0:0:0:</channel> <!--EuroSport2HD.gr-->
 <!-- thor powervu -->
 <!-- thor other -->
+<channel id="HistoryChannel">1:0:19:6F:C:A:E080000:0:0:0:</channel> <!-- History Pan Euro hd -->
 <channel id="HistoryChannel">1:0:1:780F:2C3:600:E080000:0:0:0:</channel> <!-- History Pan Euro -->
 <channel id="HistoryChannel">1:0:1:780E:2C3:600:E080000:0:0:0:</channel> <!-- History Hungary-->
 <channel id="HistoryChannel">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
