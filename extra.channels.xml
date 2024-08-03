@@ -152,6 +152,8 @@
 <channel id="eurochannel">1:0:1:5920:5920:0:0:0:0:0:http%3a//example.com</channel> <!-- EURO CHANNEL -->
 <channel id="tv100">1:0:1:5925:5925:0:0:0:0:0:http%3a//example.com</channel> <!-- TV 100 -->
 <channel id="gnomitv">1:0:1:5922:5922:0:0:0:0:0:http%3a//example.com</channel> <!-- GNOMI TV -->
+<channel id="egnatia">1:0:1:4310:4310:0:0:0:0:0:http%3a//example.com</channel> <!-- egnatia tv -->
+<channel id="pellatv">1:0:1:4320:4320:0:0:0:0:0:http%3a//example.com</channel> <!-- pellatv -->
 <!-- Dytiki Makedonia -->  
 <channel id="diktyo">1:0:1:6000:6000:0:0:0:0:0:http%3a//example.com</channel> <!-- DIKTYO -->
 <channel id="flashtv">1:0:1:6005:6005:0:0:0:0:0:http%3a//example.com</channel> <!-- FLASH TV -->
