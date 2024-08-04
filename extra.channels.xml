@@ -134,7 +134,7 @@
 <channel id="enachannel">1:0:1:5735:5735:0:0:0:0:0:http%3a//example.com</channel> <!-- ENA CHANNEL -->
 <channel id="lydiatv">1:0:1:5755:5755:0:0:0:0:0:http%3a//example.com</channel> <!-- LYDIA TV -->
 <channel id="orestiadatv">1:0:1:5750:5750:0:0:0:0:0:http%3a//example.com</channel> <!-- ORESTIADA TV -->
-<channel id="tvrodopi">1:0:1:5760:5760:0:0:0:0:0:http%3a//example.com</channel> <!-- TV RODOPI -->
+<channel id="tvrodopi">1:0:1:4130:4130:0:0:0:0:0:http%3a//example.com</channel> <!-- TV RODOPI -->
 <channel id="starbe">1:0:1:4120:4120:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR B. ELLADOS -->
 <channel id="thrakinet">1:0:1:5770:5770:0:0:0:0:0:http%3a//example.com</channel> <!-- THRAKINET -->
 <channel id="tileepiloges">1:0:1:5775:5775:0:0:0:0:0:http%3a//example.com</channel> <!-- TILE EPILOGES -->
@@ -143,7 +143,7 @@
 <!-- Kendriki Makedonia -->  
 <channel id="4e">1:0:1:5850:5850:0:0:0:0:0:http%3a//example.com</channel> <!-- 4Ε -->
 <channel id="atlastv">1:0:1:5855:5855:0:0:0:0:0:http%3a//example.com</channel> <!-- ATLAS TV -->
-<channel id="berginatv">4097:0:1:4240:4240:0:0:0:0:0:http%3a//example.com</channel> <!-- BERGINA -->
+<channel id="berginatv">1:0:1:4240:4240:0:0:0:0:0:http%3a//example.com</channel> <!-- BERGINA -->
 <channel id="europeone">1:0:1:5880:5880:0:0:0:0:0:http%3a//example.com</channel> <!-- EUROPE ONE -->
 <channel id="aechannelthessaloniki">1:0:1:5885:5885:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL THESSALONIKI -->
 <channel id="kanali9">1:0:1:5905:5905:0:0:0:0:0:http%3a//example.com</channel> <!-- KANALI 9 -->
@@ -206,7 +206,7 @@
 <channel id="hightv">1:0:1:3034:3034:0:0:0:0:0:http%3a//example.com</channel> <!-- HIGH TV -->
 <channel id="kontra">1:0:1:3038:3038:0:0:0:0:0:http%3a//example.com</channel> <!-- KONTRA -->
 <channel id="madtv">1:0:1:3042:3042:0:0:0:0:0:http%3a//example.com</channel> <!-- MAD TV -->
-<channel id="risetv">1:0:1:3060:3060:0:0:0:0:0:http%3a//example.com</channel> <!-- RISE TV -->
+<channel id="risetv">1:0:1:5050:5050:0:0:0:0:0:http%3a//example.com</channel> <!-- RISE TV -->
 <channel id="nickelodeon">1:0:1:3064:3064:0:0:0:0:0:http%3a//example.com</channel> <!-- NICKELODEON -->
 <channel id="smile">1:0:1:3072:3072:0:0:0:0:0:http%3a//example.com</channel> <!-- SMILE -->
 <channel id="alert">1:0:1:3068:3068:0:0:0:0:0:http%3a//example.com</channel> <!-- ALERT -->
