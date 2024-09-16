@@ -68,6 +68,7 @@
 <channel id="nova.insighttv">1:0:19:1393:3EA:1:C00000:0:0:0:</channel> <!--InsightTV HD INT-->   
 <channel id="nova.insighttv">1:0:1F:7D0:449:1:C00000:0:0:0:</channel> <!--InsightTV UHD-->  
 <!-- 16.0 -->
+<channel id="Epic Drama">1:0:19:458:526C:16E:A00000:0:0:0:</channel> <!-- Epic Drama-->
 <channel id="myzen">1:0:19:76D:C6D4:16E:A00000:0:0:0:</channel> <!-- MyZen hd -->
 <channel id="ViasatHistory">1:0:19:45C:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History hd-->
 <channel id="ViasatExplore">1:0:19:45B:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Explore hd-->
@@ -90,6 +91,7 @@
 <channel id="Eurosport1">1:0:19:2BD:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 1 International HD-->
 <channel id="Eurosport2">1:0:19:2BE:2BC:13E:820000:0:0:0:</channel> <!--Eurosport 2 International HD-->
 <!-- 9E -->
+<channel id="FoodNetwork">1:0:19:16A8:C3AA:9E:5A0000:0:0:0:</channel> <!-- FoodNetwork -->
 <channel id="ant1europe">1:0:1:42D:2:AA:5A0000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
 <channel id="ant1europe">1:0:1:415:2:AA:460000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
 <channel id="Discoverychannel">1:0:19:14B4:C3AA:9E:5A0000:0:0:0:</channel> <!-- Discovery Central Europe-->
