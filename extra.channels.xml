@@ -107,6 +107,7 @@
 <channel id="RIKsat.cy"> 1:0:1:20B:17:3:130000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ertworld"> 1:0:1:20A:17:3:130000:0:0:0:</channel> <!--ERTWorld--> 
 <!-- 39E -->
+<channel id="Motorvision Channel HD">1:0:19:25E:146C:A7:1860000:0:0:0:</channel>  <!--Motorvision Channel HD-->
 <channel id="4e">1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--4E-->
 <channel id="ertworld">1:0:1:161:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
 <channel id="RIKsat.cy">1:0:1:2:1:2BE:1860000:0:0:0:</channel> <!--RIKSat-->
