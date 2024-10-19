@@ -46,6 +46,7 @@
 <!-- thor other -->
 <channel id="HistoryChannel">1:0:19:6F:C:A:E080000:0:0:0:</channel> <!-- History Pan Euro hd -->
 <channel id="HistoryChannel">1:0:1:780F:2C3:600:E080000:0:0:0:</channel> <!-- History Pan Euro -->
+<channel id="HistoryChannel">1:0:19:71:C:A:E080000:0:0:0:</channel> <!-- History Pan Euro hd virtual-->
 <channel id="HistoryChannel">1:0:1:780E:2C3:600:E080000:0:0:0:</channel> <!-- History Hungary-->
 <channel id="HistoryChannel">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
 <channel id="HistoryChannel">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
