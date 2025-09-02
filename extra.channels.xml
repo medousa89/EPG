@@ -6,9 +6,8 @@
 <!-- 39.0E --><channel id="ant1">1:0:1:514:65:212C:1860000:0:0:0:</channel><!-- ant-1 -->
 <!-- 39.0E --><channel id="ant1">1:0:1:514:65:212C:1860000:0:0:0: </channel><!-- ant-1 -->
 <!-- 39.0E --><channel id="ant1">1:0:1:CE4:69:212C:1860000:0:0:0:</channel><!-- ant-1 -->
-<!-- 39.0E --><channel id="EPT1.gr">1:0:1:28:2:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
-<!-- 39.0E --><channel id="EPT1.gr">1:0:1:7:1:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
-<!-- 39.0E --><channel id="EPT1.gr">1:0:1:A:2:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
+<!-- 39.0E --><channel id="ert1">1:0:1:28:2:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
+<!-- 39.0E --><channel id="ert1">1:0:1:A:2:212C:1860000:0:0:0:</channel><!-- EPT 1 -->
 <!-- 39.0E --><channel id="EPT2.gr">1:0:1:1:1:212C:1860000:0:0:0:</channel><!-- EPT2 -->
 <!-- 39.0E --><channel id="EPT2.gr">1:0:1:14:2:212C:1860000:0:0:0:</channel><!-- EPT2 -->
 <!-- 39.0E --><channel id="EPT2.gr">1:0:1:14:2:212C:1860000:0:0:0: </channel><!-- ERT2  -->
