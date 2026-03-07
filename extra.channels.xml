@@ -119,6 +119,16 @@
 <channel id="ertnews">1:0:1:29:2:212C:EEEE0000:0:0:0:</channel> <!--ertNews-->
 <channel id="ertnews">1:0:1:29:2:212C:EEEE0282:0:0:0:</channel> <!--ertNews--> 
 <channel id="ertnews">1:0:1:29:2:212C:EEEE026A:0:0:0:</channel> <!--ertNews-->
+<!-- DTT CY -->
+<channel id="alphacy">1:0:19:1:0:FFFF:1862DF1:0:0:0:</channel> <!-- alpha cy -->
+<channel id="ant1cy">1:0:19:2:0:FFFF:1862DF1:0:0:0:</channel> <!-- ant1 cy -->
+<channel id="omega">1:0:19:3:0:FFFF:1862DF1:0:0:0:</channel>  <!-- omega cy -->
+<channel id="sigma">1:0:19:4:0:FFFF:1862DF1:0:0:0:</channel>  <!-- sigma cy -->
+<channel id="capitaltv">1:0:19:5:0:FFFF:1862DF1:0:0:0:</channel>  <!-- capitaltv cy -->
+<channel id="extracy">1:0:19:1:1:FFFF:1862E02:0:0:0:</channel> <!-- extra cy -->
+<channel id="plustv">1:0:19:2:1:FFFF:1862E02:0:0:0:</channel> <!-- plustv cy -->
+<channel id="smiletvcy">1:0:19:3:1:FFFF:1862E02:0:0:0:</channel> <!-- smiletv cy -->
+<channel id="berginacy">1:0:19:4:1:FFFF:1862E02:0:0:0:</channel> <!-- bergina cy -->
 <!--iptv -->
 <!-- DIGEA -->
 <channel id="alpha">1:0:1:100:100:0:0:0:0:0:http%3a//example.com</channel> <!-- ALPHA -->
