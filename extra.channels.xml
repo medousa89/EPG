@@ -125,7 +125,7 @@
 <channel id="omega">1:0:19:3:0:FFFF:1862DF1:0:0:0:</channel>  <!-- omega cy -->
 <channel id="sigma">1:0:19:4:0:FFFF:1862DF1:0:0:0:</channel>  <!-- sigma cy -->
 <channel id="capitaltv">1:0:19:5:0:FFFF:1862DF1:0:0:0:</channel>  <!-- capitaltv cy -->
-<channel id="ONEChannel.gr">1:0:19:1:1:FFFF:1862E02:0:0:0:</channel> <!-- ONE Channel cy -->
+<channel id="extracy">1:0:19:1:1:FFFF:1862E02:0:0:0:</channel> <!-- ONE Channel cy -->
 <channel id="plustv">1:0:19:2:1:FFFF:1862E02:0:0:0:</channel> <!-- plustv cy -->
 <channel id="smiletvcy">1:0:19:3:1:FFFF:1862E02:0:0:0:</channel> <!-- smiletv cy -->
 <channel id="berginacy">1:0:19:4:1:FFFF:1862E02:0:0:0:</channel> <!-- bergina cy -->
