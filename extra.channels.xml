@@ -125,7 +125,7 @@
 <channel id="omega">1:0:19:3:0:FFFF:1862DF1:0:0:0:</channel>  <!-- omega cy -->
 <channel id="sigma">1:0:19:4:0:FFFF:1862DF1:0:0:0:</channel>  <!-- sigma cy -->
 <channel id="capitaltv">1:0:19:5:0:FFFF:1862DF1:0:0:0:</channel>  <!-- capitaltv cy -->
-<channel id="extracy">1:0:19:1:1:FFFF:1862E02:0:0:0:</channel> <!-- extra cy -->
+<channel id="ONE Channel HD">1:0:19:1:1:FFFF:1862E02:0:0:0:</channel> <!-- ONE Channel cy -->
 <channel id="plustv">1:0:19:2:1:FFFF:1862E02:0:0:0:</channel> <!-- plustv cy -->
 <channel id="smiletvcy">1:0:19:3:1:FFFF:1862E02:0:0:0:</channel> <!-- smiletv cy -->
 <channel id="berginacy">1:0:19:4:1:FFFF:1862E02:0:0:0:</channel> <!-- bergina cy -->
@@ -214,7 +214,7 @@
 <channel id="action24">1:0:1:3004:3004:0:0:0:0:0:http%3a//example.com</channel> <!-- ACTION24 -->
 <channel id="atticatv">1:0:1:3008:3008:0:0:0:0:0:http%3a//example.com</channel> <!-- ATTICA TV -->
 <channel id="bluesky">1:0:1:3012:3012:0:0:0:0:0:http%3a//example.com</channel> <!-- BLUE SKY -->
-<channel id="onetv">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- CHANNEL 9 -->
+<channel id="ONE Channel HD">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- ONE Channel HD -->
 <channel id="aechannel">1:0:1:F3030:F3030:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL -->
 <channel id="hightv">1:0:1:3034:3034:0:0:0:0:0:http%3a//example.com</channel> <!-- HIGH TV -->
 <channel id="kontra">1:0:1:3038:3038:0:0:0:0:0:http%3a//example.com</channel> <!-- KONTRA -->
