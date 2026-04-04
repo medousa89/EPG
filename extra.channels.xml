@@ -108,7 +108,9 @@
 <channel id="ertworld"> 1:0:1:20A:17:3:130000:0:0:0:</channel> <!--ERTWorld--> 
 <!-- 39E -->
 <channel id="Motorvision Channel HD">1:0:19:25E:146C:A7:1860000:0:0:0:</channel>  <!--Motorvision Channel HD-->
+<channel id="4e">1:0:1:3F4:A:A:1860000:0:0:0</channel> <!--4E-->
 <channel id="4e">1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--4E-->
+<channel id="ertworld">1:0:1:161:A:A:1860000:0:0:0</channel> <!--ERTWorld--> 
 <channel id="ertworld">1:0:1:161:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
 <channel id="RIKsat.cy">1:0:1:2:1:2BE:1860000:0:0:0:</channel> <!--RIKSat-->
 <channel id="ertnews">1:0:1:29:2:212C:1860000:0:0:0:</channel> <!--ertNews-->
@@ -224,7 +226,7 @@
 <channel id="action24">1:0:1:3004:3004:0:0:0:0:0:http%3a//example.com</channel> <!-- ACTION24 -->
 <channel id="atticatv">1:0:1:3008:3008:0:0:0:0:0:http%3a//example.com</channel> <!-- ATTICA TV -->
 <channel id="bluesky">1:0:1:3012:3012:0:0:0:0:0:http%3a//example.com</channel> <!-- BLUE SKY -->
-<channel id="ONEChannel.gr">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- ONE Channel HD -->
+<channel id="ONEChannel">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- ONE Channel HD -->
 <channel id="aechannel">1:0:1:F3030:F3030:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL -->
 <channel id="hightv">1:0:1:3034:3034:0:0:0:0:0:http%3a//example.com</channel> <!-- HIGH TV -->
 <channel id="kontra">1:0:1:3038:3038:0:0:0:0:0:http%3a//example.com</channel> <!-- KONTRA -->
